@@ -1,7 +1,7 @@
 {
-  "name": "fe-vite-nestjs-hoidanit",
-  "author": "Hỏi Dân IT với Eric",
-  "description": "Frontend for series Nest.JS Youtube Hỏi Dân IT",
+  "name": "fe-vite-nestjs-recruitment",
+  "author": "Xuan Quyen",
+  "description": "Frontend for NestJS Recruitment Website",
   "private": true,
   "version": "1.0.0",
   "type": "module",
